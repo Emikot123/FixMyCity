@@ -2,6 +2,10 @@
 
 FixMyCity is a FastAPI + React app where users can create an account, verify login/sign-up by email, publish city issue videos, browse the public feed, like reports, and manage their own posts.
 
+Guys I did a lot of work, and all of it worked the system the 
+project was supposed to be for hackathon. And i was late because I finished backend but not frontend
+I used AI to create my frontend and to optimize my backend but 95% of wirk in Backend was done by me
+
 ## What is included
 
 ### Backend
